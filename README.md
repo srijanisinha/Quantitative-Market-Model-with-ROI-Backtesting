@@ -23,6 +23,7 @@ The ultimate goal of this pipeline is risk management. The model was backtested 
 To avoid "Black Box" decision-making, the model's brain was audited to determine which quantitative clues drove its trading behavior.
 
 ![Feature Importance](feature_importance.png)
+
 *Insight: The model heavily prioritized immediate price momentum (`Daily_Return_Pct`) and trend crossovers (`MACD`) over the RSI overheating indicator.*
 
 ## ⚙️ Core Technical Skills Demonstrated
